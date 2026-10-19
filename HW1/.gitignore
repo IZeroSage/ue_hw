@@ -1,0 +1,25 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+**/Binaries/
+**/Intermediate/
+**/DerivedDataCache/
+**/Saved/
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+.DS_Store
+*.log
+*.dSYM/
+*.PackageVersionCounter
